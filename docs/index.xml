@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Chicago Human&#43;AI Lab (CHAI)</title>
-    <link>https://chicagohai.github.io/</link>
-    <description>Recent content in Homepage on Chicago Human&#43;AI Lab (CHAI)</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chicagohai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <title>Home | ML4PP on Machine Learning for Public Policy</title>
+    <link>https://mlforpublicpolicy.github.io/</link>
+    <description>Recent content in Home | ML4PP on Machine Learning for Public Policy</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mlforpublicpolicy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://chicagohai.github.io/about/</link>
+      <link>https://mlforpublicpolicy.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chicagohai.github.io/about/</guid>
+      <guid>https://mlforpublicpolicy.github.io/about/</guid>
       <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
 Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
 Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
@@ -18,10 +18,10 @@ Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet
     
     <item>
       <title>Publication</title>
-      <link>https://chicagohai.github.io/publication/</link>
+      <link>https://mlforpublicpolicy.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chicagohai.github.io/publication/</guid>
+      <guid>https://mlforpublicpolicy.github.io/publication/</guid>
       <description>2021
  Ramaravind Kommiya Mothilal, Divyat Mahajan, Chenhao Tan and Amit Sharma. Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End. In Proceedings of the Fourth AAAI/ACM conference on Artificial Intelligence, Ethics, and Society (AIES&#39;2021); also presented at the Reponsible AI workshop at ICLR. Madhusudhan Aithal Mahabhaleshwara and Chenhao Tan. On Positivity Bias in Negative Reviews. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (short paper).</description>
     </item>
