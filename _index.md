@@ -220,17 +220,14 @@ For example, we would like to explore questions around whether machine learning 
 </table>
 
 ## Accepted Papers
-* A paper titled "On Positivity Bias in Negative Reviews" accepted at ACL'21, congratulations, [Madhu](https://madhu-aithal.github.io/)!
-* A paper titled "[Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End](https://chenhaot.com/papers/unifying-explanations.html)" accepted at AIES'21!
-* A paper titled "[Understanding the Diverging User Trajectories in Highly-related Online Communities during the COVID-19 Pandemic](https://chenhaot.com/papers/covid-communities-diverging-trajectories.html)" accepted at ICWSM'21, congratulations, [Jason](http://www.jasondarkblue.com/)!
+TBD
 
 ## Program Committee
-
+TBD
 
 ## Orgnizers
 
 
-<!-- * [Chenhao Tan](https://chenhaot.com) -->
 <figure style="display:inline-block;margin:20px;">
     <img src="/avatar.jpg" alt="chenhao-tan" style="vertical-align:top;width:120px;" />
     <figcaption style="text-align:center;">
@@ -258,16 +255,6 @@ For example, we would like to explore questions around whether machine learning 
 
 
 
-
-<!-- [Vivian Lai](https://vivlai.github.io/) (CU Boulder)
-[Chao-Chun Hsu](https://chaochunhsu.github.io/)
-[Han Liu](https://mrsata.github.io/)
-[Yangqiaoyu (Rosa) Zhou](https://rosafish.github.io/) -->
-
-<!-- * [Vivian Lai](https://vivlai.github.io/) (CU Boulder)
-* [Chao-Chun Hsu](https://chaochunhsu.github.io/)
-* [Han Liu](https://mrsata.github.io/)
-* [Yangqiaoyu (Rosa) Zhou](https://rosafish.github.io/) -->
 
 
 

@@ -13,219 +13,130 @@ We want to use the workshop to expose some of the critical policy issues that st
 For example, we would like to explore questions around whether machine learning can be used to understand decision making processes of key stakeholders, help with the development of effective policies, to understand human behavior through granular, economic data sets, to automate economic transactions for individuals. We would like to develop policies and mechanisms in critical social issues and advance best practices for decision makers, decision subjects, and auditors to use ML models effectively. In particular, we want to highlight both the current limitations and future opportunities of machine learning in public policy, and cultivate a research community in this important emerging area.
 
 ## Schedule
-<table class="remote-workshop-table">
-  <thead>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ujx6{color:#333;text-align:left;vertical-align:top}
+.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-  <th>Time (UTC)</th>
-  <!--<th>Time (<span class='fill-local-tz'>Local</span>)</th>-->
-  <th>Event</th>
+    <th class="tg-osjb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Time (EST)</span></th>
+    <th class="tg-osjb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Event</span></th>
+    <th class="tg-osjb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Hosts</span></th>
+    <th class="tg-osjb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Notes</span></th>
   </tr>
-  </thead>
-
-  <tbody>
-  
-
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">11:45am</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Hosts enter Zoom webinar</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:16,&quot;minute&quot;:0}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:17,&quot;minute&quot;:0}">
-
-  
-  <td class="fill-utc">16:00 - 17:00</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  Poster session
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">12p</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Introduction</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:17,&quot;minute&quot;:0}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:18,&quot;minute&quot;:0}">
-
-  
-  <td class="fill-utc">17:00 - 18:00</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  Zico Kolter: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=23971s" target="_blank" class="docs-creator">Actually end-to-end: Expanding the scope of ML via differentiable optimization and beyond</a> <i>(Invited talk)</i>
-  
-  
-
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">12:05 - 12:45pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Keynote 1: </span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">30 mins talk + 10 mins Q&amp;A </span></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:18,&quot;minute&quot;:0}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:19,&quot;minute&quot;:0}">
-
-  
-  <td class="fill-utc">18:00 - 19:00</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=27112s" target="_blank" class="docs-creator">Panel: Climate Change and ML in the Private Sector</a>
-  
-  
-
-
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">12:45 -1:25pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Keynote 2:</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">30 mins talk + 10 mins Q&amp;A</span></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:19,&quot;minute&quot;:0}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:20,&quot;minute&quot;:0}">
-
-
-
-
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">1:25-1.30pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Break</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-
-  
-  
-  <tr class="remote-workshop-table-subrow">
-
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">1:30-2:10pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Keynote 3: </span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">30 mins talk + 10 mins Q&amp;A </span><br></td>
   </tr>
-  
-  <tr class="remote-workshop-table-subrow">
-
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">2:10-2:25</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Poster spotlight (best paper 1)</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-  
-  <tr class="remote-workshop-table-subrow">
-
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">2:25 - 3.10pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Panel Discussion: Thoughts on interdisciplinary collaboration/future of this area</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-  
-  <tr class="remote-workshop-table-subrow">
-
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">3:10 - 3: 15pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Break</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-  
-  <tr class="remote-workshop-table-subrow">
-
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">3: 15 - 3.55pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Keynote 4: </span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">30 mins talk + 10 mins Q&amp;A </span></td>
   </tr>
-  
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:20,&quot;minute&quot;:0}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:21,&quot;minute&quot;:0}">
-
-  
-  <td class="fill-utc">20:00 - 21:00</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  Poster session
-
-
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">3.55 - 4.10pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Poster spotlight (best paper 2) </span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:21,&quot;minute&quot;:0}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:22,&quot;minute&quot;:0}">
-
-  
-  <td class="fill-utc">21:00 - 22:00</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  Jennifer Chayes: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=37935s" target="_blank" class="docs-creator">ML &amp; Data Science for a Sustainable Future</a> <i>(Invited talk)</i>
-  
-
-
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">4:10-4:15p</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Break</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:22,&quot;minute&quot;:0}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:22,&quot;minute&quot;:50}">
-
-  
-  <td class="fill-utc">22:00 - 22:50</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  Vinod Khosla: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=41461s" target="_blank" class="docs-creator">AI: Can it be a climate changer?</a> <i>(Invited talk)</i>
-  
-  
-
-
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">4:15 - 4:55pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Keynote 5: </span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">30 mins talk + 10 mins Q&amp;A </span></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:22,&quot;minute&quot;:50}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:23,&quot;minute&quot;:15}">
-
-  
-  <td class="fill-utc">22:50 - 23:15</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=44903s" target="_blank" class="docs-creator">Closing remarks and awards</a>
-  
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333333;background-color:transparent">4:55 - 5:40pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Panel Discussion: Current limitations and promising opportunities</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-
-  
-
-  
-  <tr class="range-row" data-d1="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:23,&quot;minute&quot;:15}" data-d2="{&quot;year&quot;:2020,&quot;month&quot;:12,&quot;day&quot;:11,&quot;hour&quot;:0,&quot;minute&quot;:0}">
-
-  
-  <td class="fill-utc">23:15 - 0:00</td>
-  <!--<td class='fill-local'> </td>-->
-  
-
-  <td>
-  
-  Poster reception
-  
-  
-  </td>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">5:40-5:45p</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Break</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-
-  
-
-  
-  </tbody>
+  <tr>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">5:45-7:00pm</span></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Poster session</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-ujx6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#333;background-color:transparent">Gather</span></td>
+  </tr>
+</tbody>
 </table>
 
 ## Accepted Papers
-* A paper titled "On Positivity Bias in Negative Reviews" accepted at ACL'21, congratulations, [Madhu](https://madhu-aithal.github.io/)!
-* A paper titled "[Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End](https://chenhaot.com/papers/unifying-explanations.html)" accepted at AIES'21!
-* A paper titled "[Understanding the Diverging User Trajectories in Highly-related Online Communities during the COVID-19 Pandemic](https://chenhaot.com/papers/covid-communities-diverging-trajectories.html)" accepted at ICWSM'21, congratulations, [Jason](http://www.jasondarkblue.com/)!
+TBD
 
 ## Program Committee
-
+TBD
 
 ## Orgnizers
 
