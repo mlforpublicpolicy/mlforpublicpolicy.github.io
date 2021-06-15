@@ -225,7 +225,7 @@ TBD
 ## Program Committee
 TBD
 
-## Orgnizers
+## Organizers
 
 
 <figure style="display:inline-block;margin:20px;">
