@@ -10,7 +10,7 @@ publishDir = "docs"
 [params]
   author = "Chacha"
   description = "NeurIPS 2021 Workshop: Machine Learning for Public Policy."
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
+#   favicon = "favicon.ico"  # path to a .ico to use as favicon
   css = ["css/custom.css"]
   googleAnalytics = "UA-186917619-1"
   [params.footer]

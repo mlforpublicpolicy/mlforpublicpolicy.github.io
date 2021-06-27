@@ -6,11 +6,12 @@ Welcome!
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-The goal of this workshop is to inspire and engage a broad interdisciplinary audience, including computer scientists, economists, and social scientists, around topics at the exciting intersection of public policy, and machine learning. We believe that machine learning offers enormous potential to transform our understanding of economics, human decision making, and public policy, and yet its adoption by economists, social scientists, and policymakers remains nascent. 
+The goal of this workshop is to bring together a broad interdisciplinary community of researchers and practitioners from diverse fields such as computer science, social sciences, law, healthcare, and public policy, to identify and address critical policy challenges using machine learning models and algorithms. More specifically, we hope to initiate and promote constructive dialogue about the following aspects: 
+Identifying impactful policy problems that benefit from machine learning (e.g., healthcare decision making [5], tax policies [11], refugee integration [2], child maltreatment hotline screening [3]), and developing novel ML methods to address these problems. 
+Critically examining state-of-the-art machine learning techniques, their limitations, and their applicability to policy problems, e.g., fairness concerns of ML models [8]. 
+Developing new datasets, benchmarks, and pipelines that allow ML and policy experts to collaborate seamlessly, and brainstorming new ideas for building a sustainable community at the intersection of ML and public policy. 
 
-We want to use the workshop to expose some of the critical policy issues that stand to benefit from applying machine learning, expose underexplored datasets and simulations, and identify machine learning research directions that would have significant positive socio-economic impact. In effect, we aim to accelerate the proper use of machine learning to rapidly develop, test, and deploy fair and equitable policies towards a better world.
 
-For example, we would like to explore questions around whether machine learning can be used to understand decision making processes of key stakeholders, help with the development of effective policies, to understand human behavior through granular, economic data sets, to automate economic transactions for individuals. We would like to develop policies and mechanisms in critical social issues and advance best practices for decision makers, decision subjects, and auditors to use ML models effectively. In particular, we want to highlight both the current limitations and future opportunities of machine learning in public policy, and cultivate a research community in this important emerging area.
 
 ## Schedule
 <table class="remote-workshop-table">
